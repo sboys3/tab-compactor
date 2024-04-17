@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Compactor",
+  "version": "1.0",
+
+  "description": "Allows tabs to significantly decrease in size in the toolbar.",
+
+  "icons": {
+    "32": "icons/tab-compactor-32.png",
+    "64": "icons/tab-compactor-64.png",
+    "48": "icons/tab-compactor-48.png",
+    "96": "icons/tab-compactor-96.png",
+    "128": "icons/tab-compactor-128.png",
+    "256": "icons/tab-compactor-256.png",
+    "512": "icons/tab-compactor-512.png"
+  },
+  
+  "theme": {
+    
+  },
+  
+  "theme_experiment": {
+    "stylesheet": "userChrome.css"
+  },
+  
+  "applications": {
+    "gecko": {
+      "id": "tab-compactor@sboys3.com"
+    }
+  }
+}
