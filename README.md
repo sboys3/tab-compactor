@@ -1,5 +1,8 @@
 # Firefox Tab Compactor
 
+
+![Example Of Tabs](./doc/Screenshot%202024-04-17%20145356.png)
+
 This is an extension that uses userChrome.css to allow tabs to significantly decrease in size in the toolbar.
 
 I also recommend setting `browser.compactmode.show` to true in about:config and going into `more tools > customize toolbar` and setting the mode to compact for more space savings.
